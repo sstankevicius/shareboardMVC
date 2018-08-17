@@ -8,4 +8,4 @@ define("DB_NAME", "shop");
 
 // Define URL
 define("ROOT_PATH", "/oopmvcUdemy/");
-define("ROOT_URL", "http://localhost:8888/oopmvcUdemy");
+define("ROOT_URL", "http://localhost:8888/oopmvcUdemy/");
